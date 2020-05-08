@@ -1,24 +1,19 @@
-# README
+# Template application for the Photo App in the Complete Ruby on Rails Developer course
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Using Rails 6 (you'll need Rails 6 and all it's dependencies installed)
 
-Things you may want to cover:
+* Devise gem used to create a working User model
 
-* Ruby version
+* Bootstrap 4.4 used for styling
 
-* System dependencies
+Sample steps to use:
 
-* Configuration
+* 1) Clone the app and cd into the app directory
 
-* Database creation
+* 2) Re-set remote to your own repo
 
-* Database initialization
+* 3) Bundle install to install all the gems necessary
 
-* How to run the test suite
+* 4) Run rails db:migrate to create the users table
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* 5) Run the rails server, preview in the browser and enjoy!

@@ -1,6 +1,6 @@
 # Template application for the Photo App in the Complete Ruby on Rails Developer course
-
 ### by [Mashrur Hossain](https://mashrurhossain.com)
+
 
 * Using Rails 6 (you'll need Rails 6 and all it's dependencies installed)
 
